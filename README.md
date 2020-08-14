@@ -1,3 +1,7 @@
+**WARNING:** This repository is no longer updated, and is now transferred under [Techtonique
+/
+nnetsauce](https://github.com/Techtonique/nnetsauce)
+
 ![nnetsauce logo](the-nnetsauce.png)
 
 <hr>
